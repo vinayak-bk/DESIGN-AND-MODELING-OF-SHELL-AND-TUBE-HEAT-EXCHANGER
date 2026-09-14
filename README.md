@@ -18,31 +18,32 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> vinayakkabburi </p>
+    <p><strong>Email ID:</strong> vinayakkabburi2001@gmail.com </p>
+    <p><strong>College Name:</strong> KLS VDIT HALIYAL  </p>
+    <p><strong>Branch/Specialization :</strong> BE in Mechanical engineering </p>
+    <p><strong>College ID:</strong> 2VD23ME425 </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> AutoCad, Solidworks </p>
+    <p><strong>Instructor Name:</strong>  Mairala Chinnarao </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> 6 months </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> Mairala Chinnarao</p>
+<p><strong>Trainer Email ID:</strong> chinnaraomairala@gmail.com </p>
+<p><strong>Trainer Designation:</strong> Design Engineer
+ (Sedin Technologies)</p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -63,54 +64,30 @@
 
 ## Overall Learning 
 
-> _This is a placeholder. Replace the text below with your personal learning summary._
-During this course, I learned the fundamentals of web development and project design.
-I gained hands-on experience with HTML, CSS, JavaScript and strengthened my skills in 
-problem-solving, teamwork, documentation, and delivering real-world project solutions.
+During this course, I learned the fundamentals of mechanical design and CAD modeling. I gained hands-on experience with SolidWorks, AutoCAD, engineering drawings, 3D part modeling, assembly, and basic design practices. The course also improved my problem-solving, technical, and practical skills in developing real-world mechanical design solutions.
 
 
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a>DESIGN-AND-MODELING-OF-SHELL-AND-TUBE-HEAT-EXCHANGER</strong> </p>
 
-<p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
-<p><strong><a href="#project3">Project 3:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
 <p><em>(You can add more projects as needed)</em></p>
 
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: DESIGN-AND-MODELING-OF-SHELL-AND-TUBE-HEAT-EXCHANGER </h3>
 <p>
-  This project involved designing and developing a basic functional module using the core concepts taught in the course.
-  It focused on understanding requirements, creating structured code, and implementing key features.
+  Designed and modeled a shell-and-tube heat exchanger using SolidWorks. The project involved selecting suitable dimensions and materials, creating 3D models and assembly, and understanding the working principle of heat transfer. This project helped improve my CAD modeling, assembly, design, and problem-solving skills.
+
 </p>
 <p>
   <a href="https://github.com/vinayak-bk/DESIGN-AND-MODELING-OF-SHELL-AND-TUBE-HEAT-EXCHANGER/blob/main/internship%20project_Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
-<!-- Project 2 -->
-<h3 id="project2">Project 2: <!-- Add Project Title --></h3>
-<p>
-  This project expanded on intermediate concepts and required integrating multiple components to build a more complete solution.
-  It enhanced understanding of UI/UX design, modular coding, and testing.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
-
-<!-- Project 3 -->
-<h3 id="project3">Project 3: <!-- Add Project Title --></h3>
-<p>
-  The final project showcased the practical application of all concepts learned throughout the course.  
-  It required planning, building, optimizing, and documenting a complete real-world project.
-</p>
-<p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
-</p>
 
 <hr style="height:1px; border-top:1px solid #ccc; width:80%;" />
 
@@ -124,20 +101,16 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 
 ## **Learnings from LST and SST**
 
-<!-- add your experiences over here -->
-> _This is a placeholder. Replace the text below with your personal learning from LST and SST sessions summary._
-LST and SST sessions helped me....
----
+LST and SST sessions helped me improve my communication, teamwork, and problem-solving skills. I learned how to present my ideas confidently, work effectively with others, and approach challenges with a positive and practical mindset.
+
 
 ## **Community Services**
 
-<!-- add descreption in your own words -->
+During my internship period, I participated in multiple community-oriented activities, including tree plantation and assisting elderly citizens. These activities helped me develop teamwork, communication, coordination, and a stronger sense of social responsibility.
 
-During my internship period, I participated in multiple community-oriented activities .....<!-- add descreption in your own words -->
 
 ### **Activities Involved**
-<!-- add the location where you given -->
-- **Blood Donation** – Donated blood and supported basic assistance tasks during the camp.
+
   
  <!-- add the location where you have panted -->
 - **Tree Plantation Drive** – Participated by planting trees and contributing to environmental improvement.
@@ -149,10 +122,10 @@ During my internship period, I participated in multiple community-oriented activ
 
 ### **Impact / Contribution**
 
-- Helped create a supportive environment during the blood donation camp. <!-- add the location where you given -->
-- Actively participated in promoting a greener and cleaner surroundings.
-- Offered personal assistance to elder citizens, strengthening community bonds.
-- Improved skills in communication, coordination, and social responsibility.
+* Actively participated in a tree plantation drive in (Dandeli) to promote a greener environment.
+* Assisted elderly citizens in (Dandeli) by providing personal support.
+* Contributed to strengthening community bonds through meaningful social activities.
+* Improved my communication, teamwork, coordination, and sense of social responsibility.
 
 ### **Photos**
 
