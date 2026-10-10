@@ -144,12 +144,14 @@ During my internship period, I participated in multiple community-oriented activ
 
 ## **Certificate**
 
-The internship certificate serves as an official acknowledgment of the successful completion of my training period. It will be issued by the organization upon fulfilling all required tasks and meeting the performance expectations of the program. The certificate validates the skills, experience, and contributions made during the internship.
+
+
+The SURE ProEd Internship Completion Certificate serves as official recognition of the successful completion of my six-month internship from March 2026 to September 2026, in collaboration with AICTE. The program provided practical training in AutoCAD, SolidWorks, and Creo, along with mandatory soft skills training. I achieved a GPA of 8.4/10.0, demonstrating my learning and progress throughout the program. This certificate acknowledges the technical knowledge, skills, and professional development gained during the internship..
 
 <!-- add your certificate image url below (inside src='')-->
 
 <p align="center">
-<img src="https://github.com/Lord-Rahul/Practice-Programs/blob/main/react/1/public/Gemini_Generated_Image_a6w8rda6w8rda6w8.png?raw=true" alt="Internship Certificate" width="80%">
+<img src=Screenshot 2026-10-11 002826.png alt="Internship Certificate" width="80%">
 </p>
 
 ---
