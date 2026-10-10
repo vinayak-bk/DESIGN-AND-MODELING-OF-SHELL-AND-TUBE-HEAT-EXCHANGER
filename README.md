@@ -151,7 +151,8 @@ The SURE ProEd Internship Completion Certificate serves as official recognition 
 <!-- add your certificate image url below (inside src='')-->
 
 <p align="center">
-<img src=Screenshot 2026-10-11 002826.png alt="Internship Certificate" width="80%">
+<img src=<img width="910" height="649" alt="image" src="https://github.com/user-attachments/assets/b485ff44-2b4b-4b0b-9257-65cb3eb3d88c" />
+"Internship Certificate" width="80%">
 </p>
 
 ---
